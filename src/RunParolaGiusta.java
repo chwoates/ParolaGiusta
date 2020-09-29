@@ -1,7 +1,7 @@
 
 public class RunParolaGiusta {
 	
-	int gameDurationMinutes = 1 ;
+	int gameDurationMinutes = 5 ;
 	
 	public RunParolaGiusta(){
 		
