@@ -16,9 +16,11 @@ public class RunParolaGiusta {
 	
 	
 	public void execParolaGiusta(){
+
+		WordAdd wordadd = new WordAdd();
 		
 		ParolaGiustaDisplay display = new ParolaGiustaDisplay(gameDurationMinutes);
-		
+		System.out.println(wordadd.newWord);
 		delay(gameDurationMinutes*60000);
 		display.endGame();
 		
