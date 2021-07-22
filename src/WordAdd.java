@@ -7,4 +7,5 @@ public class WordAdd {
     String bigWord = "grande";
     String dogWord = "cane";
     String messWord = "casino";
+    String grapeWord = "uva";
 }
