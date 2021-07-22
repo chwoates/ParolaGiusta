@@ -8,4 +8,5 @@ public class WordAdd {
     String dogWord = "cane";
     String messWord = "casino";
     String grapeWord = "uva";
+    String woofWord = "abbaio";
 }
