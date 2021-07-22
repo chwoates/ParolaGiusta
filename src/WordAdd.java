@@ -6,4 +6,5 @@ public class WordAdd {
     String worstWord = "cazzo";
     String bigWord = "grande";
     String dogWord = "cane";
+    String grapeWord = "uva";
 }
